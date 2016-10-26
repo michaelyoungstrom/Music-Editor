@@ -3,9 +3,6 @@ package cs3500.music.model;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by mayoungstrom on 12/7/15.
- */
 public class compositionAdaptor implements EditableCompositionModel{
 
     MusicModelImpl song;
