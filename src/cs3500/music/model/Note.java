@@ -1,8 +1,5 @@
 package cs3500.music.model;
 
-/**
- * Created by Tejas on 11/2/2015.
- */
 public class Note extends ourPlayableToPlayableAdapter{
   int start;
   int end; ///could be end
