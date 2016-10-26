@@ -4,9 +4,6 @@ import java.util.ArrayList;
 
 import cs3500.music.util.CompositionBuilder;
 
-/**
- * Created by Tejas on 11/13/2015.
- */
 public class CompositionBuilderImpl implements CompositionBuilder<MusicModelImpl> {
 
   private ArrayList<ourPlayable> music = new ArrayList<>();
